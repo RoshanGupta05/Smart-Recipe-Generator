@@ -43,7 +43,7 @@ const Home = () => {
       if (difficulty) params.difficulty = difficulty;
       if (cookingTime) params.cookingTime = cookingTime;
 
-      const response = await axios.get(`http://localhost:5000/api/recipes/search`, { params });
+      const response = await axios.get(`https://smart-recipe-generator-api.vercel.app/api/recipes/search`, { params });
       setRecipes(response.data);
     } catch (error) {
       console.error('Error fetching recipes:', error);
