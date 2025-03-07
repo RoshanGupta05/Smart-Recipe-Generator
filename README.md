@@ -1,9 +1,9 @@
-# 🍽️ Smart Recipe Generator
+#  Smart Recipe Generator
 
-## 📌 Overview
+##  Overview
 Smart Recipe Generator is a web application that suggests recipes based on available ingredients. Users can enter ingredients manually. The app then matches available ingredients with recipes from a predefined database and provides cooking instructions, nutritional details, and customization options.
 
-## 🚀 Features
+##  Features
 - **Ingredient Input:** Enter ingredients manually or select from a list.
 - **Recipe Suggestions:** Get recipe recommendations based on available ingredients.
 - **Filters & Customization:**
@@ -18,7 +18,7 @@ Smart Recipe Generator is a web application that suggests recipes based on avail
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 ### **Frontend:**
 - React (Vite)
 - Tailwind CSS
