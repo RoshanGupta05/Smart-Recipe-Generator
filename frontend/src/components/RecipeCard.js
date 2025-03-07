@@ -13,7 +13,7 @@ const RecipeCard = ({ recipe }) => {
 
   const handleSave = async () => {
     try {
-      await axios.post('http://localhost:5000/api/recipes/favorites', { recipeId: recipe.id });
+      await axios.post('https://smart-recipe-generator-api.vercel.app/api/recipes/favorites', { recipeId: recipe.id });
       alert('Recipe saved as favorite!');
     } catch (err) {
       console.error('Error saving recipe:', err);
@@ -22,7 +22,7 @@ const RecipeCard = ({ recipe }) => {
 
   const handleRate = async (newRating) => {
     try {
-      await axios.post('http://localhost:5000/api/recipes/rate', { recipeId: recipe.id, rating: newRating });
+      await axios.post('https://smart-recipe-generator-api.vercel.app/api/recipes/rate', { recipeId: recipe.id, rating: newRating });
       setRating(newRating);
       alert('Recipe rated successfully!');
     } catch (err) {
