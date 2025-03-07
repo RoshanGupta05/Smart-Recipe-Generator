@@ -8,8 +8,12 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Default Route
+app.get("/", (req, res) => {
+  res.send("Smart Recipe Generator Backend is Running!");
+});
+
 // Routes
 app.use('/api/recipes', recipeRoutes);
 
-// Export the app for Vercel
 module.exports = app;
