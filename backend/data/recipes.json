@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "garlic", "ginger", "olive oil"],
+    "instructions": "1. Heat olive oil in a pan. 2. Add garlic and ginger, sauté for 1 minute. 3. Add broccoli, carrots, and bell peppers. 4. Stir fry for 5-7 minutes. 5. Add soy sauce and cook for another 2 minutes.",
+    "dietaryPreferences": ["vegetarian", "gluten-free"],
+    "nutritionalInfo": {
+      "calories": 200,
+      "protein": 8
+    },
+    "difficulty": "easy",
+    "cookingTime": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yV6qcxHHRukWBJDK95BtxfBEqBpzG2_fm7Jhqmf3HVOeeJcBXN7icEbjTJJq5N6FmLo&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Salad",
+    "ingredients": ["chicken breast", "lettuce", "tomatoes", "cucumber", "olive oil", "lemon juice", "salt", "pepper"],
+    "instructions": "1. Cook chicken breast and slice it. 2. Chop lettuce, tomatoes, and cucumber. 3. Mix vegetables and chicken in a bowl. 4. Drizzle with olive oil and lemon juice. 5. Season with salt and pepper.",
+    "dietaryPreferences": ["gluten-free"],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": 25
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-lOH0WemutbEEV3pUi3kZrLy3Od2yBrF_nKk0H1CUN_tIiMadh0teW2kBMaf9VqknYM&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Pasta Carbonara",
+    "ingredients": ["pasta", "eggs", "bacon", "parmesan cheese", "garlic", "black pepper"],
+    "instructions": "1. Cook pasta according to package instructions. 2. Fry bacon until crispy. 3. Whisk eggs and parmesan cheese in a bowl. 4. Mix cooked pasta with bacon and egg mixture. 5. Season with black pepper.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 500,
+      "protein": 20
+    },
+    "difficulty": "medium",
+    "cookingTime": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaFiV-Yu6Zt8i1K0qVxxPko9EQTU5kr7KHtSHELiCKiGd7iIOkGQR_TjCKJ_8zpqHRwo&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Soup",
+    "ingredients": ["carrots", "celery", "onion", "potatoes", "vegetable broth", "tomatoes", "garlic", "olive oil"],
+    "instructions": "1. Heat olive oil in a pot. 2. Sauté garlic, onion, carrots, and celery. 3. Add potatoes and tomatoes. 4. Pour in vegetable broth and simmer for 20 minutes.",
+    "dietaryPreferences": ["vegetarian", "gluten-free"],
+    "nutritionalInfo": {
+      "calories": 150,
+      "protein": 5
+    },
+    "difficulty": "easy",
+    "cookingTime": 30,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaFiV-Yu6Zt8i1K0qVxxPko9EQTU5kr7KHtSHELiCKiGd7iIOkGQR_TjCKJ_8zpqHRwo&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Grilled Salmon",
+    "ingredients": ["salmon fillet", "lemon", "olive oil", "salt", "pepper", "dill"],
+    "instructions": "1. Preheat grill. 2. Season salmon with salt, pepper, and dill. 3. Drizzle with olive oil and lemon juice. 4. Grill for 5-7 minutes on each side.",
+    "dietaryPreferences": ["gluten-free"],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": 30
+    },
+    "difficulty": "medium",
+    "cookingTime": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCU8htILYGHK_SCXmlKuwcezrtP_oMxKcpXgW4_vBtctX-3o6qa_Ljq27GHDN0cTaGK-c&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "tomatoes", "cheese", "sour cream", "taco seasoning"],
+    "instructions": "1. Cook ground beef with taco seasoning. 2. Warm taco shells. 3. Fill shells with beef, lettuce, tomatoes, and cheese. 4. Top with sour cream.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": 22
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://feelgoodfoodie.net/wp-content/uploads/2024/04/Ground-Beef-Tacos-TIMG.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vegetable Curry",
+    "ingredients": ["potatoes", "carrots", "cauliflower", "coconut milk", "curry powder", "onion", "garlic", "ginger"],
+    "instructions": "1. Sauté onion, garlic, and ginger. 2. Add curry powder and vegetables. 3. Pour in coconut milk and simmer for 20 minutes.",
+    "dietaryPreferences": ["vegetarian", "gluten-free"],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": 6
+    },
+    "difficulty": "medium",
+    "cookingTime": 30,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthHnut2_623gs7hQ4G7SrG48ngQB4Hx6WVcppXkr0hJoExJJSM-k7oZZJEt0sU0M5srs&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Noodle Soup",
+    "ingredients": ["chicken breast", "noodles", "carrots", "celery", "onion", "chicken broth"],
+    "instructions": "1. Cook chicken breast and shred it. 2. Sauté onion, carrots, and celery. 3. Add chicken broth and noodles. 4. Simmer until noodles are cooked.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": 20
+    },
+    "difficulty": "easy",
+    "cookingTime": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCU8htILYGHK_SCXmlKuwcezrtP_oMxKcpXgW4_vBtctX-3o6qa_Ljq27GHDN0cTaGK-c&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "name": "Vegetable Lasagna",
+    "ingredients": ["lasagna noodles", "tomato sauce", "zucchini", "spinach", "ricotta cheese", "mozzarella cheese"],
+    "instructions": "1. Layer lasagna noodles, tomato sauce, vegetables, and cheese in a baking dish. 2. Bake at 375°F for 30 minutes.",
+    "dietaryPreferences": ["vegetarian"],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": 18
+    },
+    "difficulty": "medium",
+    "cookingTime": 45,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCU8htILYGHK_SCXmlKuwcezrtP_oMxKcpXgW4_vBtctX-3o6qa_Ljq27GHDN0cTaGK-c&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "Shrimp Scampi",
+    "ingredients": ["shrimp", "linguine", "garlic", "butter", "lemon juice", "parsley"],
+    "instructions": "1. Cook linguine. 2. Sauté garlic in butter. 3. Add shrimp and cook until pink. 4. Toss with linguine and lemon juice. 5. Garnish with parsley.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 450,
+      "protein": 25
+    },
+    "difficulty": "medium",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXQ-tF2NNx6er53tbDnimd_codrKFq7goGtr7PEhPjeSugD04uag12k9CDnOQabqLWSI&usqp=CAU"
+  },
+  {
+    "id": 11,
+    "name": "Quinoa Salad",
+    "ingredients": ["quinoa", "cucumber", "tomatoes", "red onion", "feta cheese", "olive oil", "lemon juice"],
+    "instructions": "1. Cook quinoa. 2. Chop vegetables and mix with quinoa. 3. Add feta cheese. 4. Drizzle with olive oil and lemon juice.",
+    "dietaryPreferences": ["vegetarian", "gluten-free"],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": 10
+    },
+    "difficulty": "easy",
+    "cookingTime": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilz-Cc6e7MRnGhLuXay0C8lxf5176o_HkaLflAP2jhtyqCbDR33ZliISVkQ7mbR4Q3OQ&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "name": "Beef Stir Fry",
+    "ingredients": ["beef strips", "broccoli", "carrots", "soy sauce", "garlic", "ginger", "sesame oil"],
+    "instructions": "1. Heat sesame oil in a pan. 2. Sauté garlic and ginger. 3. Add beef and cook until browned. 4. Add vegetables and soy sauce. 5. Stir fry for 5-7 minutes.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": 30
+    },
+    "difficulty": "medium",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuooZfELc0XBRr52EU6IZWY8I_5WGJovaEQ&s"
+  },
+  {
+    "id": 13,
+    "name": "Vegetable Pizza",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "bell peppers", "mushrooms", "olives"],
+    "instructions": "1. Preheat oven to 475°F. 2. Spread tomato sauce on pizza dough. 3. Add cheese and vegetables. 4. Bake for 12-15 minutes.",
+    "dietaryPreferences": ["vegetarian"],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": 15
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3sPs9Rrm9ZaO-rryGUR2yFwe8i_AjfoEYg&s"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Curry",
+    "ingredients": ["chicken breast", "coconut milk", "curry powder", "onion", "garlic", "ginger"],
+    "instructions": "1. Sauté onion, garlic, and ginger. 2. Add curry powder and chicken. 3. Pour in coconut milk and simmer for 20 minutes.",
+    "dietaryPreferences": ["gluten-free"],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": 30
+    },
+    "difficulty": "medium",
+    "cookingTime": 30,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKBIcUksWFiQnQ_MTZty5u0UdYbrJAWftlg&s"
+  },
+  {
+    "id": 15,
+    "name": "Vegetable Omelette",
+    "ingredients": ["eggs", "spinach", "tomatoes", "onion", "cheese", "salt", "pepper"],
+    "instructions": "1. Whisk eggs and season with salt and pepper. 2. Sauté vegetables in a pan. 3. Pour eggs over vegetables and cook until set. 4. Add cheese and fold the omelette.",
+    "dietaryPreferences": ["vegetarian", "gluten-free"],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": 15
+    },
+    "difficulty": "easy",
+    "cookingTime": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25qLEFWfxwY4r3WISqvT9qWqi4P55UBCP6A&s"
+  },
+  {
+    "id": 16,
+    "name": "Beef Burger",
+    "ingredients": ["ground beef", "burger buns", "lettuce", "tomatoes", "cheese", "pickles", "ketchup"],
+    "instructions": "1. Form ground beef into patties. 2. Grill patties until cooked. 3. Assemble burgers with buns, lettuce, tomatoes, cheese, and pickles. 4. Add ketchup.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 500,
+      "protein": 25
+    },
+    "difficulty": "easy",
+    "cookingTime": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgU-Y-luDvhVbxIwWPait2BvhXAwZz1NoVtg&s"
+  },
+  {
+    "id": 17,
+    "name": "Vegetable Fried Rice",
+    "ingredients": ["rice", "carrots", "peas", "eggs", "soy sauce", "garlic", "ginger"],
+    "instructions": "1. Cook rice. 2. Sauté garlic and ginger. 3. Add vegetables and eggs. 4. Stir in rice and soy sauce.",
+    "dietaryPreferences": ["vegetarian"],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": 10
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnbaOcaeXVNy54HxvZa5YLI6S97AxU-Nagw&s"
+  },
+  {
+    "id": 18,
+    "name": "Chicken Tacos",
+    "ingredients": ["chicken breast", "taco shells", "lettuce", "tomatoes", "cheese", "sour cream", "taco seasoning"],
+    "instructions": "1. Cook chicken with taco seasoning. 2. Warm taco shells. 3. Fill shells with chicken, lettuce, tomatoes, and cheese. 4. Top with sour cream.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": 25
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oC3EZCoJPmm634RlCJOfEMaLevcIvYvmsA&s"
+  },
+  {
+    "id": 19,
+    "name": "Vegetable Stir Fry Noodles",
+    "ingredients": ["noodles", "broccoli", "carrots", "bell peppers", "soy sauce", "garlic", "ginger"],
+    "instructions": "1. Cook noodles. 2. Sauté garlic and ginger. 3. Add vegetables and stir fry. 4. Toss with noodles and soy sauce.",
+    "dietaryPreferences": ["vegetarian"],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": 10
+    },
+    "difficulty": "easy",
+    "cookingTime": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnbaOcaeXVNy54HxvZa5YLI6S97AxU-Nagw&s"
+  },
+  {
+    "id": 20,
+    "name": "Chicken Alfredo Pasta",
+    "ingredients": ["pasta", "chicken breast", "heavy cream", "parmesan cheese", "garlic", "butter"],
+    "instructions": "1. Cook pasta. 2. Sauté garlic in butter. 3. Add chicken and cook until done. 4. Pour in heavy cream and parmesan cheese. 5. Toss with pasta.",
+    "dietaryPreferences": [],
+    "nutritionalInfo": {
+      "calories": 600,
+      "protein": 30
+    },
+    "difficulty": "medium",
+    "cookingTime": 25,
+    "image": "https://gimmedelicious.com/wp-content/uploads/2024/10/Skinny-Chicken-Broccoli-Alfredo-1.jpg"
+  }
+]
